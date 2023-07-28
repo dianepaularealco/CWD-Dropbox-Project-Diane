@@ -1,0 +1,222 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #1a0c0c;
+    font-weight: 200;
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+p, blockquote, a {
+    color: #616161;
+    font-size: medium;
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+.brand-logo {
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-weight:700
+}
+
+.dropbox-icon {
+    padding: 0 20px 0;
+}
+
+.btn-default:hover {
+    font color: white;
+    font-weight: 600;
+}
+
+.section-main {
+    background: #1e1919;
+}
+
+.section-products {
+    background: #f7f5f2;
+    color: #1e1919;
+}
+
+.section-connecting {
+    background: #f7f5f2;
+    color: #080707;
+}
+
+.product-text {
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+.icon-name {
+    font-weight: 550px;
+}
+
+.learn-more-link {
+    color: #1e1919; 
+    font-weight: 500;
+    font-size: medium;
+}
+
+.learn-more-link:hover {
+    text-decoration-line: underline;
+    font-weight: 600;
+    font-size: large;
+}
+
+.learn-more-link2 {
+    text-decoration-line: underline;
+}
+
+.learn-more-link2:hover {
+    text-decoration-line: none;
+}
+    
+.learn-more-icon {
+   padding: 10px;
+}
+
+.section-cloud-storage {
+    background: #1e1919;
+    color: #f7f5f2;
+}
+
+.section-trusted {
+    background: #1e1919;
+    color: #f7f5f2;
+}
+
+
+.slider .indicators .indicator-item.active {
+    background-color: #2443f1;
+}
+
+.slides-img {
+    height: 1500px;
+}
+
+.slides-image-one {
+    height: 1500px !important;
+    background: url(https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/assets/articles/DigitalNomads2_1440x960.jpg?id=1545245b-6903-4636-9586-7e18dcb1085d&width=828&output_type=webp);
+
+    background-size: auto;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+}
+
+.slides-image-two {
+    height: 1500px !important;
+    background: url(https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/assets/customer-success-stories/sundance/sundance_editor.png?id=bacc4706-0999-4aba-aecf-2289a6f0b33c&width=828&output_type=webp);
+
+    background-size: auto;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+}
+.slides-image-three {
+    height: 1500px !important;
+    background: url(https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/en-us/assets/articles/customer-success-stories/creativity-explored/1-ce-c03-hero@2x.jpg?id=7e823734-e1e2-4676-bd8d-4e0887d1f3d4&width=828&output_type=webp);
+
+    background-size: auto ;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+}
+
+.slides-image-four {
+    height: 1500px !important;
+    background: url(https://fjord.dropboxstatic.com/warp/conversion/dropbox/experience/en-us/drop-in-video-series/KingChildren_1920x1280.png?id=612f13ad-7264-48ac-9856-b60829cfc557&width=828&output_type=webp);
+
+    background-size: auto;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+}
+.slides-image-five {
+    height: 1500px !important;
+    background: url(https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/assets/customer-success-stories/hope-gallery/hope_quote.png?id=d39e724d-e9b4-4bf9-b448-6b92200606bf&width=828&output_type=webp);
+
+    background-size: auto;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+}
+
+.special-option1 {
+    height: 1500px !important;
+    background: #af0840;
+    color: #f7F5F2;
+}
+.special-option2 {
+    height: 1500px !important;
+    background: #fd1111;
+    color: #f7F5F2;
+}
+.special-option3 {
+    height: 1500px !important;
+    background: #175ef7;
+    color: #f7F5F2;
+}
+.special-option4 {
+    height: 1500px !important;
+    background: #ff4794;
+    color: #f7F5F2;
+}
+.special-option5 {
+    height: 1500px !important;
+    background: #fff134;
+    color: #f7F5F2;
+}
+
+.slides-content{
+    color: white;
+}
+
+.slides-link:hover {
+    text-decoration-line: underline;
+}
+
+.view-more-link{
+    text-decoration-line: underline;
+}
+
+.view-more-link:hover {
+    text-decoration-line: none;
+}
+
+.footer-navi-arrow {
+    margin-top: 10%;
+}
+
+.footer-link {
+    color: #f7F5F2;
+    font-size: small;
+}
+.footer-link:hover {
+    text-decoration-line: underline;
+}
+.footer-icons {
+    margin-right: 1.5em;
+}
+.footer-icons:hover {
+    font-size: 20px;
+}
+
+.footer-global-link{
+    color: #f7F5F2;
+    margin: 5px;
+}
+
+.footer-global-link:hover{
+    text-decoration-line: underline;
+}
+
+.l5ths,
+.xl5ths {
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+@media only screen and (min-width: 993px) {
+    .row .col.l5ths {
+        width: 20%;
+    }
+}
+
+@media only screen and (min-width: 1201px) {
+    .row .col.xl5ths {
+        width: 20%;
+    }
+}
+
