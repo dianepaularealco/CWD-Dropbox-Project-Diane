@@ -20,7 +20,7 @@ p, blockquote, a {
 }
 
 .btn-default:hover {
-    font color: white;
+    color: white;
     font-weight: 600;
 }
 
