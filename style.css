@@ -4,11 +4,20 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Schibsted Grotesk', sans-serif;
 }
 
-p, blockquote, a {
+p {
     color: #616161;
-    font-size: medium;
+    font-size: small;
     font-family: 'Schibsted Grotesk', sans-serif;
+    
 }
+
+a {
+    color: #616161;
+    font-size: small;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    
+}
+
 
 .brand-logo {
     font-family: 'Schibsted Grotesk', sans-serif;
@@ -160,7 +169,20 @@ p, blockquote, a {
 
 .slides-content{
     color: white;
+
+
+@media (min-width:768px) 
+    .flowtext {
+    font-size: 18px;
 }
+@media (min-width:1024px) 
+    .flowtext {
+    font-size: 19px;
+}
+@media (min-width:1280px) 
+    .flowtext {
+    font-size: 20px;
+}}
 
 .slides-link:hover {
     text-decoration-line: underline;
